@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pruebita/static/css/main.95536934.css",
+    "main.js": "/pruebita/static/js/main.fa59990b.js",
+    "static/js/453.2c440dc0.chunk.js": "/pruebita/static/js/453.2c440dc0.chunk.js",
+    "index.html": "/pruebita/index.html",
+    "main.95536934.css.map": "/pruebita/static/css/main.95536934.css.map",
+    "main.fa59990b.js.map": "/pruebita/static/js/main.fa59990b.js.map",
+    "453.2c440dc0.chunk.js.map": "/pruebita/static/js/453.2c440dc0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95536934.css",
+    "static/js/main.fa59990b.js"
+  ]
+}
